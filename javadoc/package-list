@@ -6,7 +6,13 @@ com.amazonaws.auth.policy.conditions
 com.amazonaws.auth.policy.resources
 com.amazonaws.event
 com.amazonaws.handlers
+com.amazonaws.metrics
+com.amazonaws.metrics.internal
+com.amazonaws.metrics.internal.cloudwatch
+com.amazonaws.metrics.internal.cloudwatch.provider.transform
+com.amazonaws.metrics.internal.cloudwatch.spi
 com.amazonaws.regions
+com.amazonaws.retry
 com.amazonaws.services.autoscaling
 com.amazonaws.services.autoscaling.model
 com.amazonaws.services.cloudformation
@@ -17,6 +23,8 @@ com.amazonaws.services.cloudfront_2012_03_15
 com.amazonaws.services.cloudfront_2012_03_15.model
 com.amazonaws.services.cloudsearch
 com.amazonaws.services.cloudsearch.model
+com.amazonaws.services.cloudtrail
+com.amazonaws.services.cloudtrail.model
 com.amazonaws.services.cloudwatch
 com.amazonaws.services.cloudwatch.model
 com.amazonaws.services.datapipeline
@@ -28,6 +36,7 @@ com.amazonaws.services.dynamodb.datamodeling
 com.amazonaws.services.dynamodb.model
 com.amazonaws.services.dynamodbv2
 com.amazonaws.services.dynamodbv2.datamodeling
+com.amazonaws.services.dynamodbv2.metrics
 com.amazonaws.services.dynamodbv2.model
 com.amazonaws.services.dynamodbv2.util
 com.amazonaws.services.ec2
@@ -51,6 +60,8 @@ com.amazonaws.services.identitymanagement
 com.amazonaws.services.identitymanagement.model
 com.amazonaws.services.importexport
 com.amazonaws.services.importexport.model
+com.amazonaws.services.kinesis
+com.amazonaws.services.kinesis.model
 com.amazonaws.services.opsworks
 com.amazonaws.services.opsworks.model
 com.amazonaws.services.rds
@@ -61,6 +72,7 @@ com.amazonaws.services.route53
 com.amazonaws.services.route53.model
 com.amazonaws.services.s3
 com.amazonaws.services.s3.iterable
+com.amazonaws.services.s3.metrics
 com.amazonaws.services.s3.model
 com.amazonaws.services.s3.transfer
 com.amazonaws.services.s3.transfer.model
