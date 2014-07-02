@@ -2478,6 +2478,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheNodeTypeSpecificParameter.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ModifyReplicationGroupRequest.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/Parameter.html</loc>
 </url>
 <url>
@@ -2526,6 +2529,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ReservedCacheNode.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeReplicationGroupsRequest.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DeleteCacheSubnetGroupRequest.html</loc>
 </url>
 <url>
@@ -2536,6 +2542,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeCacheSubnetGroupsRequest.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ReplicationGroupNotFoundException.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/InvalidParameterCombinationException.html</loc>
@@ -2563,6 +2572,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ModifyCacheParameterGroupRequest.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/NodeGroup.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DeleteCacheParameterGroupRequest.html</loc>
@@ -2598,6 +2610,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/InvalidCacheParameterGroupStateException.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/InvalidReplicationGroupStateException.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/package-frame.html</loc>
 </url>
 <url>
@@ -2605,6 +2620,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheParameterGroupQuotaExceededException.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/NodeGroupMember.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeReservedCacheNodesOfferingsResult.html</loc>
@@ -2631,6 +2649,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeCacheSecurityGroupsResult.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ReplicationGroup.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheSubnetQuotaExceededException.html</loc>
 </url>
 <url>
@@ -2643,6 +2664,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/Event.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CreateReplicationGroupRequest.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/InvalidSubnetException.html</loc>
 </url>
 <url>
@@ -2652,6 +2676,9 @@
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheSecurityGroup.html</loc>
 </url>
 <url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ReplicationGroupPendingModifiedValues.html</loc>
+</url>
+<url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ModifyCacheSubnetGroupRequest.html</loc>
 </url>
 <url>
@@ -2659,6 +2686,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheSecurityGroupNotFoundException.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/ReplicationGroupAlreadyExistsException.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/RecurringCharge.html</loc>
@@ -2677,6 +2707,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CreateCacheSecurityGroupRequest.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeReplicationGroupsResult.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheSubnetGroupAlreadyExistsException.html</loc>
@@ -2704,6 +2737,9 @@
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DescribeCacheParameterGroupsRequest.html</loc>
+</url>
+<url>
+<loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/DeleteReplicationGroupRequest.html</loc>
 </url>
 <url>
 <loc>http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/elasticache/model/CacheParameterGroup.html</loc>
