@@ -4,6 +4,7 @@ com.amazonaws.auth.policy
 com.amazonaws.auth.policy.actions
 com.amazonaws.auth.policy.conditions
 com.amazonaws.auth.policy.resources
+com.amazonaws.event
 com.amazonaws.handlers
 com.amazonaws.regions
 com.amazonaws.services.autoscaling
