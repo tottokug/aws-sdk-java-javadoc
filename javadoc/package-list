@@ -8,6 +8,9 @@ com.amazonaws.event
 com.amazonaws.handlers
 com.amazonaws.metrics
 com.amazonaws.metrics.internal
+com.amazonaws.metrics.internal.cloudwatch
+com.amazonaws.metrics.internal.cloudwatch.provider.transform
+com.amazonaws.metrics.internal.cloudwatch.spi
 com.amazonaws.regions
 com.amazonaws.retry
 com.amazonaws.services.autoscaling
