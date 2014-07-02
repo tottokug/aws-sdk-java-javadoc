@@ -25,8 +25,6 @@ com.amazonaws.services.cloudfront_2012_03_15
 com.amazonaws.services.cloudfront_2012_03_15.model
 com.amazonaws.services.cloudsearch
 com.amazonaws.services.cloudsearch.model
-com.amazonaws.services.cloudsearchv2
-com.amazonaws.services.cloudsearchv2.model
 com.amazonaws.services.cloudtrail
 com.amazonaws.services.cloudtrail.model
 com.amazonaws.services.cloudwatch
