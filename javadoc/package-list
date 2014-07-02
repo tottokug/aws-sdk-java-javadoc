@@ -59,6 +59,8 @@ com.amazonaws.services.identitymanagement
 com.amazonaws.services.identitymanagement.model
 com.amazonaws.services.importexport
 com.amazonaws.services.importexport.model
+com.amazonaws.services.kinesis
+com.amazonaws.services.kinesis.model
 com.amazonaws.services.opsworks
 com.amazonaws.services.opsworks.model
 com.amazonaws.services.rds
