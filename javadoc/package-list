@@ -36,6 +36,7 @@ com.amazonaws.services.dynamodb.datamodeling
 com.amazonaws.services.dynamodb.model
 com.amazonaws.services.dynamodbv2
 com.amazonaws.services.dynamodbv2.datamodeling
+com.amazonaws.services.dynamodbv2.metrics
 com.amazonaws.services.dynamodbv2.model
 com.amazonaws.services.dynamodbv2.util
 com.amazonaws.services.ec2
