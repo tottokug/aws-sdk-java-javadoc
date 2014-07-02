@@ -280,19 +280,6 @@ Page layout container styles
     font-size:1.1em;
     display:inline;
 }
-div#regionDisclaimer {
-    padding-top:4px;
-    padding-bottom: 4px;    
-    border-top: 1px solid #CCCCCC;
-    border-bottom: 1px solid #CCCCCC;
-    font-weight: bold;
-    margin-top: 6px;
-    margin-bottom: 6px;
-}
-div#regionDisclaimer p {
-    padding-bottom: 0 !important;
-    color: #CC6600 !important;
-}
 /*
 List styles
 */
